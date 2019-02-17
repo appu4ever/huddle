@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="1024px" viewBox="0 0 320 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F00098" offset="0%"></stop>
+            <stop stop-color="#9A52FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#EDF5F9" x="0" y="0" width="320" height="1024"></rect>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" transform="translate(144.910369, 132.328872) rotate(52.000000) translate(-144.910369, -132.328872) " x="39.9103691" y="-45.6711283" width="210" height="356" rx="36"></rect>
+        <rect id="Rectangle" fill="url(#linearGradient-1)" transform="translate(283.622776, 75.914793) rotate(-42.000000) translate(-283.622776, -75.914793) " x="138.622776" y="-140.585207" width="290" height="433" rx="36"></rect>
+    </g>
+</svg>
